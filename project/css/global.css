@@ -1,0 +1,15 @@
+.container
+{
+    max-width: 1170px;
+    padding: 0px 15px;
+    margin: 0px auto;
+    display: flex;
+}
+.justify-content-between
+{
+    justify-content: space-between;
+}
+.d-flex
+{
+    display: flex;
+}
